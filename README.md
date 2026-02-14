@@ -30,7 +30,8 @@
 - Developed recognition pipeline using MTCNN + FaceNet for face embedding extraction. 
 - Designed Flask-based backend for real-time detection & identity retrieval & JSON-based user detail 
 retrieval system. 
-- Optimized search across embeddings to ensure high precision & low inference time. 
+- Optimized search across embeddings to ensure high precision & low inference time.
+- **Tools:** Python, PyTorch, MTCNN, OpenCV, FaceNet
 
 ### 🔍 Mini SIEM - Real-time Security Monitoring
 - Integrated 3 log sources (Windows Security Log, System Events, Chrome History) with UDP syslog normalization
