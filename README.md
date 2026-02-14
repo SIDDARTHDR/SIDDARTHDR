@@ -20,22 +20,23 @@
 
 ## 📂 Projects
 
-### 🎓 Student Performance Prediction
-- Used machine learning algorithms (Logistic Regression, Decision Tree) to predict student outcomes.
-- Improved accuracy by 12% via hyperparameter tuning.
-- **Tools:** Python, Scikit-learn, Pandas
+### 🛡️ Malware Classification using Ensemble Deep Architectures
+- Designed and implemented a hierarchical malware classification system supporting direct executable (.exe) upload with binary-to-image transformation.
+- Built and compared Custom CNN, ResNet50 (Transfer Learning), and KAN models across multiple malware datasets, achieving high confidence ensemble predictions.
+- Integrated automatic dataset detection, confidence-based model selection, and real-time web interface deployment.
+- **Tools:** Python, PyTorch, FastAPI, Streamlit, NumPy, Pandas, CUDA
 
-### 💸 Expense Tracker Web Application
-- Developed a full-stack app with real-time expense tracking and monthly summaries.
-- Integrated database support for persistent user data.
-- **Tools:** Python, Flask, MySQL, Matplotlib
+### 🆔 Real-Time Face Recognition & Identity Retrieval System 
+- Developed recognition pipeline using MTCNN + FaceNet for face embedding extraction. 
+- Designed Flask-based backend for real-time detection & identity retrieval & JSON-based user detail 
+retrieval system. 
+- Optimized search across embeddings to ensure high precision & low inference time. 
 
-### 🌸 Iris Flower Classification
-- Achieved 96% accuracy using KNN algorithm.
-- Visualized and reduced dimensions for better model performance.
-- **Tools:** Python, Scikit-learn, Seaborn
-
----
+### 🔍 Mini SIEM - Real-time Security Monitoring
+- Integrated 3 log sources (Windows Security Log, System Events, Chrome History) with UDP syslog normalization
+- Implemented rule-based threat detection achieving 100% accuracy on brute-force and off-hours admin patterns
+- Designed interactive web dashboard with real-time alerts, event timeline, and user activity tracking (<500ms response time)
+- **Tools:** Python, FastAPI, SQLite3, pywin32, Uvicorn, MITRE ATT&CK Framework
 
 ## 💼 Experience
 
@@ -44,6 +45,11 @@
 - Built and validated ML models using Python and Scikit-learn.
 - Optimized models with hyperparameter tuning and testing.
 - Contributed to supervised learning projects (e.g., SVM, Random Forest), reducing prediction error by 15%.
+
+### Intern - Zoho Corporation Pvt Ltd
+📍Nadangadu, Kalathur East, Peravurani | 🗓️ 22 Jan 2026 – 21 Feb 2026 
+- Developed foundational knowledge in Cybersecurity and Network Security through hands-on internship activities. 
+- Collaborated with colleagues and observed workflows of security-related projects, gaining insights & processes.
 
 ---
 
