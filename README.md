@@ -45,7 +45,7 @@ retrieval system.
 - Optimized models with hyperparameter tuning and testing.
 - Contributed to supervised learning projects (e.g., SVM, Random Forest), reducing prediction error by 15%.
 
-### Intern - Zoho Corporation Pvt Ltd
+### 🛡️ Intern - Zoho Corporation Pvt Ltd
 📍Nadangadu, Kalathur East, Peravurani | 🗓️ 22 Jan 2026 – 21 Feb 2026 
 - Developed foundational knowledge in Cybersecurity and Network Security through hands-on internship activities. 
 - Collaborated with colleagues and observed workflows of security-related projects, gaining insights & processes.
