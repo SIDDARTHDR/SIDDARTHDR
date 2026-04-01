@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Siddarth R!
 
-🎓 I'm a passionate Data Analyst currently pursuing my B.Tech in Information Technology at Dr. Mahalingam College of Engineering and Technology (Graduating 2026). I enjoy working with data and uncovering actionable insights that drive smarter decisions.
+🎓 I'm a passionate Machine Learning Engineer Data Analyst currently pursuing my B.Tech in Information Technology at Dr. Mahalingam College of Engineering and Technology (Graduating 2026). I enjoy working with data and uncovering actionable insights that drive smarter decisions.
 
 ---
 
